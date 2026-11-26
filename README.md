@@ -1,6 +1,6 @@
 # Archenemy
 
-Category: Forensics  |  Worth up to 300 points
+Category: Forensics  |  
 
 ## The challenge
 John likes Arch Linux. (He will tell you so.) Today he sent over a picture and insisted there is nothing in it.
